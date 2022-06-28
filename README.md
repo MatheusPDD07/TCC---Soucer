@@ -56,26 +56,26 @@ Before starting, you will need to have the following tools installed on your mac
 
 Also, it's nice to have an editor to work with code like [VSCode](https://code.visualstudio.com/download)*.
 
-<small>* Indicamos o VSCode mas existem outras opções.</small>
+<small>* We indicate the VSCode but there are other options.</small>
 
-### 🧭 Rodando a aplicação web (Front End)
+### 🧭 Running the web application (Front End)
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/mfonsanBD/studying-tcc.git studying
+# Clone this repository
+$ git clone https://github.com/MatheusPDD07/TCC---Soucer.git studying
 
-# Vá para a pasta da aplicação Front End
+# Go to Front End application folder
 $ cd studying
 
-# Instale as dependências
+# install the dependencies
 $ yarn
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# The application will open on port:3000 - go to http://localhost:3000
 ```
 
-## 📝 Licença
+## 📝 Licence
 
-Este projeto esta sobe a licença MIT.
+This project is under the MIT license.
