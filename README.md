@@ -7,21 +7,21 @@
 <div/>                   
 
 	
-#### O Studying é um sistema para plataforma web desenvolvido para revolucionar o sistema de ensino EAD.
+#### Studying is a web platform system developed to revolutionize the distance education system.
 
-#### 💻 Sobre o projeto
+#### 💻 About the project.
 
-O Studying é um sistema para plataforma web, que roda em rede internet e é composto por módulos, onde todo o acesso é feito via browser.
+Studying is a system for a web platform, which runs on an internet network and is composed of modules, where all access is made via a browser.
 
-O administrador faz o cadastro dos processos, das atividades e dos estudantes relacionados a área acadêmica com o intuito de permitir ao administrador fazer o monitoramento do conteúdo que o estudante disponibiliza em rede, é gerado um relatório referente a esse conteúdo, onde também é possível ter a porcentagem de colaboração do estudante em enriquecer o acervo acadêmico dos demais. O administrador pode exportar relatórios referentes a essa produtividade.
+The administrator registers the processes, activities and students related to the academic area in order to allow the administrator to monitor the content that the student makes available on the network, a report is generated regarding this content, where it is also possible to have the percentage of student collaboration in enriching the academic collection of others. The administrator can export reports regarding this productivity.
 
-O sistema também permite ao estudante registrar o tempo de execução de sua atividade, para que assim o administrador faça o acompanhamento de sua preferência acadêmica.
+The system also allows the student to record the execution time of their activity, so that the administrator can monitor their academic preference.
 
 <br>
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma:
+The application layout is available in Figma:
 
 <a href="https://www.figma.com/file/yyM3B8g5POcDwqO3jgR0CO/Studying---TCC?node-id=0%3A1">
   <img alt="Criado por Studying" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%233481FF">
@@ -31,7 +31,7 @@ O layout da aplicação está disponível no Figma:
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in building the project:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
@@ -45,16 +45,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
-## 🚀 Como executar o projeto
+## 🚀 How to run the project
 
-### Pré-requisitos
+### prerequisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before starting, you will need to have the following tools installed on your machine:
 
 [Git](https://git-scm.com),
 [Node.js](https://nodejs.org/).
 
-Além disto, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/download)*.
+Also, it's nice to have an editor to work with code like [VSCode](https://code.visualstudio.com/download)*.
 
 <small>* Indicamos o VSCode mas existem outras opções.</small>
 
