@@ -7,7 +7,7 @@
 <div/>                   
 
 	
-####O Studying é um sistema para plataforma web desenvolvido para revolucionar o sistema de ensino EAD.
+#### O Studying é um sistema para plataforma web desenvolvido para revolucionar o sistema de ensino EAD.
 
 #### 💻 Sobre o projeto
 
