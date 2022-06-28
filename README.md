@@ -6,17 +6,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="128" height="128"/>
 <div/>                   
 
-<p align="center">O Studying é um sistema para plataforma web desenvolvido para revolucionar o sistema de ensino EAD.</p>
+	
+###O Studying é um sistema para plataforma web desenvolvido para revolucionar o sistema de ensino EAD.
 
-<br>
-
-<h4 align="center">
-	🚧  Studying 🚀 Em construção...  🚧
-</h4>
-
-<br>
-
-## 💻 Sobre o projeto
+#### 💻 Sobre o projeto
 
 O Studying é um sistema para plataforma web, que roda em rede internet e é composto por módulos, onde todo o acesso é feito via browser.
 
